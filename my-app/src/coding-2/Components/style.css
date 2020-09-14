@@ -1,0 +1,76 @@
+.container{
+    display:flex;
+    line-Height:2;
+    box-shadow: whitesmoke;
+    margin: 0% 12%;
+}
+.form{
+    box-shadow: 5px 5px 5px 5px rgba(68, 68, 68, 0.3);
+    margin:1px 10px;
+    flex: 1;
+    border: 1px solid lightgray;
+    font-Weight:bold;
+    font-family:cursive;
+}
+.card{
+    border:1px solid lightgray;
+    margin:1% 10%;
+}
+.cardCont{
+    display:flex;
+    border:1px solid lightgray;
+    padding:10px;
+    box-shadow: 1px 1px 1px 1px rgba(68, 68, 68, 0.3);
+    margin:10px;
+}
+.flex{
+    flex:1;
+}
+.logo{
+    height:80px;
+    width:80px;
+    border-Radius:50%;
+}
+div>h3{
+    margin-top: 30px;
+}
+.green{
+    height:40px;
+    width:40px;
+    background:green;
+    border-Radius:50%;
+    margin:25px;
+}
+.red{
+    height:40px;
+    width:40px;
+    margin:25px;
+    background:red;
+    border-Radius:50%;
+}
+input,select{
+    padding:10px;
+    margin:5px;
+    font-size: 16px;
+}
+.btn{
+    color: white;
+    background: indigo;
+    padding: 10px;
+    margin:5px;
+    font-size: 16px;
+    border-radius: 5px;
+}
+.filter{
+    margin:1px 10px;
+    flex: 1;
+    box-shadow: 5px 5px 5px 5px rgba(68, 68, 68, 0.3);
+    border:1px solid lightgray;
+    font-family: cursive;
+    font-weight: bold;
+}
+h1{
+    background: yellow;
+    margin:4% 20%;
+    border-radius: 30px;
+}
